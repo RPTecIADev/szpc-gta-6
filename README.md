@@ -84,7 +84,7 @@ Embora o projeto base seja sólido, a busca por inovação não para. Algumas id
   <tr>
     <td align="center">
       <strong>Rafael Rodrigues Pereira</strong><br>
-      <em>Desenvolvedor Sênior & Especialista em IA</em><br>
+      <em>Desenvolvedor & Especialista em IA</em><br>
       Construindo pontes entre o Front-end e o futuro da Inteligência Artificial.
     </td>
   </tr>
